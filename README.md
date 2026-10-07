@@ -20,6 +20,12 @@ This repository documents my progress as I learn Python from scratch and share m
 - File Handling
 - Exception Handling
 
+## Progress 
+
+✅ Day 001 - Python Development Environment Setup 
+
+✅ Day 002 - What is Python and Hello World
+
 ## Goal
 
 Learn. Build. Automate. 🚀
