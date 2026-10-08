@@ -26,6 +26,8 @@ This repository documents my progress as I learn Python from scratch and share m
 
 ✅ Day 002 - What is Python and Hello World
 
+✅ Day 003 - Variables
+
 ## Goal
 
 Learn. Build. Automate. 🚀
