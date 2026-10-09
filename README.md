@@ -4,7 +4,7 @@ Welcome to my Python learning journey.
 
 This repository documents my progress as I learn Python from scratch and share my learnings publicly.
 
-## Topics Covered
+## Topics :
 
 - Python Setup
 - Variables
@@ -27,6 +27,8 @@ This repository documents my progress as I learn Python from scratch and share m
 ✅ Day 002 - What is Python and Hello World
 
 ✅ Day 003 - Variables
+
+✅ Day 004 - Data Types
 
 ## Goal
 
