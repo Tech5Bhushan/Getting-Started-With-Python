@@ -30,6 +30,8 @@ This repository documents my progress as I learn Python from scratch and share m
 
 ✅ Day 004 - Data Types
 
+✅ Day 005 - Input Function
+
 ## Goal
 
 Learn. Build. Automate. 🚀
