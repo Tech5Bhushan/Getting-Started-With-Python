@@ -32,6 +32,8 @@ This repository documents my progress as I learn Python from scratch and share m
 
 ✅ Day 005 - Input Function
 
+✅ Day 006 - Type Conversion
+
 ## Goal
 
 Learn. Build. Automate. 🚀
