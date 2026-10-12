@@ -22,6 +22,8 @@ This repository documents my progress as I learn Python from scratch and share m
 
 ## Progress 
 
+Week 1 Completed ✅
+
 ✅ Day 001 - Python Development Environment Setup 
 
 ✅ Day 002 - What is Python and Hello World
@@ -34,8 +36,20 @@ This repository documents my progress as I learn Python from scratch and share m
 
 ✅ Day 006 - Type Conversion
 
+✅ Day 007*- Operators
+
 ## Goal
+
+Week 2 Roadmap
+
+🐍 Day 008 - Strings 
+🐍 Day 009 - String Indexing & Slicing 
+🐍 Day 010 - String Methods 
+🐍 Day 011 - Lists 
+🐍 Day 012 - List Operations 
+🐍 Day 013 - Tuples 
+🐍 Day 014 - Dictionaries
 
 Learn. Build. Automate. 🚀
 
-- Bhushan More
+- Bhushan
