@@ -36,7 +36,9 @@ Week 1 Completed ✅
 
 ✅ Day 006 - Type Conversion
 
-✅ Day 007*- Operators
+✅ Day 007- Operators
+
+✅ Day 008 - Strings
 
 ## Goal
 
