@@ -40,6 +40,8 @@ Week 1 Completed ✅
 
 ✅ Day 008 - Strings
 
+✅ Day 009 - String Indexing and Slicing
+
 ## Goal
 
 Week 2 Roadmap
