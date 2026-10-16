@@ -42,6 +42,10 @@ Week 1 Completed ✅
 
 ✅ Day 009 - String Indexing and Slicing
 
+✅ Day 010 - String Methods
+
+✅ Day 011 - Introduction to Lists
+
 ## Goal
 
 Week 2 Roadmap
