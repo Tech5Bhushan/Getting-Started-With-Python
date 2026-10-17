@@ -46,6 +46,8 @@ Week 1 Completed ✅
 
 ✅ Day 011 - Introduction to Lists
 
+✅ Day 012 - List Methods
+
 ## Goal
 
 Week 2 Roadmap
