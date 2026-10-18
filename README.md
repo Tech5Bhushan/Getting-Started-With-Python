@@ -48,6 +48,8 @@ Week 1 Completed ✅
 
 ✅ Day 012 - List Methods
 
+✅ Day 013 - Tuples in Python
+
 ## Goal
 
 Week 2 Roadmap
