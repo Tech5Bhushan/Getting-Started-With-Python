@@ -50,6 +50,8 @@ Week 1 Completed ✅
 
 ✅ Day 013 - Tuples in Python
 
+✅ Day 014 - Sets in Python
+
 ## Goal
 
 Week 2 Roadmap
