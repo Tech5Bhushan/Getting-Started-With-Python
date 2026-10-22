@@ -52,6 +52,8 @@ Week 1 Completed ✅
 
 ✅ Day 014 - Sets in Python
 
+✅ Day 015 - Dictionaries in Python
+
 ## Goal
 
 Week 2 Roadmap
