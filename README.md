@@ -54,6 +54,8 @@ Week 1 Completed ✅
 
 ✅ Day 015 - Dictionaries in Python
 
+✅ Day 016 - Conditional Statements
+
 ## Goal
 
 Week 2 Roadmap
