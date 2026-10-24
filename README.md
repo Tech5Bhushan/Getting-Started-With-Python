@@ -58,6 +58,8 @@ Week 1 Completed ✅
 
 ✅ Day 017 - for Loops in Python
 
+✅ Day 018 - while Loops in Python
+
 ## Goal
 
 Week 2 Roadmap
