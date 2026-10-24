@@ -56,6 +56,8 @@ Week 1 Completed ✅
 
 ✅ Day 016 - Conditional Statements
 
+✅ Day 017 - for Loops in Python
+
 ## Goal
 
 Week 2 Roadmap
